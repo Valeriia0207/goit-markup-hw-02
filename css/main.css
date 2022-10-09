@@ -204,6 +204,7 @@ body {
 }
 .footer-contacts {
   font-family: 'Roboto';
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -223,9 +224,10 @@ body {
 .footer-contacts:hover,
 .footer-contacts:focus {
   font-family: 'Roboto';
+  font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.03em;
-  color: rgba(255, 255, 255, 0.6);
+  color: var(--accent-color);
 }
