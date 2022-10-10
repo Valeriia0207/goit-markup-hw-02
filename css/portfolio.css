@@ -43,7 +43,7 @@ body {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--primery-text-color);
 }
@@ -51,7 +51,7 @@ body {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--primery-text-color);
 }
@@ -59,9 +59,17 @@ body {
   font-family: 'Raleway';
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.2;
   letter-spacing: 0.03em;
-  color: var(--primery-text-color);
+  color: var(--accent-color);
+}
+.logo-up {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  color: var(--logo);
 }
 .header-item-link:hover,
 .header-item-link:focus {
@@ -72,16 +80,16 @@ body {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
-  color: var(--primery-text-color);
+  color: var(--text-color);
 }
 .header-mail:hover,
 .header-mail:focus {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--accent-color);
 }
@@ -90,7 +98,7 @@ body {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--accent-color);
 }
@@ -100,7 +108,7 @@ body {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.6;
   text-align: center;
   letter-spacing: 0.03em;
   border: var(--bg-sections-color);
@@ -116,7 +124,7 @@ body {
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.6;
   text-align: center;
   letter-spacing: 0.03em;
   border: var(--accent-color);
@@ -128,7 +136,7 @@ body {
   font-family: 'Roboto';
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
   letter-spacing: 0.06em;
   color: var(--primery-text-color);
 }
@@ -136,7 +144,7 @@ body {
   font-family: 'Roboto';
   font-weight: 400;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.8;
   letter-spacing: 0.03em;
   color: var(--text-color);
 }
@@ -150,7 +158,15 @@ body {
   font-family: 'Raleway';
   font-weight: 700;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+  color: var(--accent-color);
+}
+.logo-down {
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
   letter-spacing: 0.03em;
   color: var(--primery-bg-color);
 }
@@ -160,7 +176,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: var(--primery-bg-color);
 }
@@ -170,7 +186,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
@@ -181,7 +197,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: var(--accent-color);
 }
@@ -190,7 +206,7 @@ body {
   font-family: 'Roboto';
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   color: var(--accent-color);
